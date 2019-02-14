@@ -1,4 +1,4 @@
-package com.nickcullenblog.barcode;
+package com.nickcullenblog.blog;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
